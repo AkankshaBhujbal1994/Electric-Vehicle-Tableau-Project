@@ -3,6 +3,8 @@
 About this project
 The dashboard focuses on various Key Performance Indicators (KPIs) to provide insights into the adoption and growth of electric vehicles, specifically Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 
+<img width="1188" alt="Screenshot Dashboard" src="https://github.com/AkankshaBhujbal1994/Electric-Vehicle-Tableau-Project/assets/171846266/6eade045-d511-4030-a52a-171e2a2f98a3">
+
 Problem Statement: 
 The aim was to understand the overall landscape of electric vehicles, assess the market's size and growth, and analyze the technological advancements and market shares of BEVs and PHEVs. This information is crucial for stakeholders to make informed decisions regarding the EV market.
 
